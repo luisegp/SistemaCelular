@@ -1,0 +1,14 @@
+C:\Users\paulo\OneDrive\Documentos\ProjetoCs\bin\Debug\net8.0\ProjetoC#.exe
+C:\Users\paulo\OneDrive\Documentos\ProjetoCs\bin\Debug\net8.0\ProjetoC#.deps.json
+C:\Users\paulo\OneDrive\Documentos\ProjetoCs\bin\Debug\net8.0\ProjetoC#.runtimeconfig.json
+C:\Users\paulo\OneDrive\Documentos\ProjetoCs\bin\Debug\net8.0\ProjetoC#.dll
+C:\Users\paulo\OneDrive\Documentos\ProjetoCs\bin\Debug\net8.0\ProjetoC#.pdb
+C:\Users\paulo\OneDrive\Documentos\ProjetoCs\obj\Debug\net8.0\ProjetoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Documentos\ProjetoCs\obj\Debug\net8.0\ProjetoC#.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Documentos\ProjetoCs\obj\Debug\net8.0\ProjetoC#.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Documentos\ProjetoCs\obj\Debug\net8.0\ProjetoC#.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Documentos\ProjetoCs\obj\Debug\net8.0\ProjetoC#.dll
+C:\Users\paulo\OneDrive\Documentos\ProjetoCs\obj\Debug\net8.0\refint\ProjetoC#.dll
+C:\Users\paulo\OneDrive\Documentos\ProjetoCs\obj\Debug\net8.0\ProjetoC#.pdb
+C:\Users\paulo\OneDrive\Documentos\ProjetoCs\obj\Debug\net8.0\ProjetoC#.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Documentos\ProjetoCs\obj\Debug\net8.0\ref\ProjetoC#.dll
